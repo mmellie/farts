@@ -2,7 +2,7 @@ name: "."
 title: "shite"
 description: |
   shite
-output_dir: "."
+output_dir: "./try this again"
 navbar:
   right:
     - text: "Home"
