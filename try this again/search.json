@@ -6,8 +6,22 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nThis website is just about me and my academic career. I’m studying Evaluation Studies and I hope to pursue applied research in education, child welfare, or criminal justice after graduation.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-14T22:03:15-06:00"
+      "last_modified": "2022-02-14T22:25:40-06:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Ellie's Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-14T22:25:41-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Ellie Miller",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          shite\r\n          \r\n          \r\n          Home\r\n          About\r\n          Blog\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Ellie Miller\r\n          \r\n          \r\n            \r\n              I am a first year’s master’s student in the Evaluation Studies program. I like running, nordic skiing, biking, reading, and playing with data.\r\n            \r\n            \r\n              I am a first year’s master’s student in the Evaluation Studies program. I like running, nordic skiing, biking, reading, and playing with data.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-02-14T22:25:41-06:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
