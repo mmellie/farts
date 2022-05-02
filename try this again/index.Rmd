@@ -9,6 +9,6 @@ output:
 site: distill::distill_website
 ---
 
-I am a first year's master's student in the Evaluation Studies program. I like running, nordic skiing, biking, reading, and playing with data.  
+I am a first year master's student in the Evaluation Studies program. I like running, nordic skiing, biking, reading, and playing with data.  
 mill6745@umn.edu
 
