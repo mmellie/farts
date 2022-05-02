@@ -1,9 +1,9 @@
 ---
-title: "welcome"
+title: "A post"
 description: |
-  A short description of the post.
+  Website thoughts.
 author:
-  - name: Unknown
+  - name: Ellie
 date: 2022-02-14
 output:
   distill::distill_article:
@@ -11,12 +11,12 @@ output:
 ---
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+Here is a quick little blog where I will write about what it's like to create a website. 
 
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+"When you try your best, but you don't succeed  
+When you get a website, but not what you need   
+When you feel so tired, but r don't sleep  
+Knit and re-knit"  
+--Coldplay ish???
 
 

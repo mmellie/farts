@@ -3,7 +3,7 @@
     "path": "~/GitHub/farts/try this again/_posts/2022-02-14-welcome/welcome.Rmd",
     "project_path": "_posts/2022-02-14-welcome/welcome.Rmd",
     "type": "r_markdown",
-    "hash": "1967423970",
+    "hash": "2835850520",
     "contents": "",
     "dirty": false,
     "created": 1644898976526.0,
@@ -11,14 +11,16 @@
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "18,19",
+        "scrollLine": "10"
     },
     "folds": "",
-    "lastKnownWriteTime": 1644898976,
+    "lastKnownWriteTime": 1651460371,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1644898976,
+    "last_content_update": 1651460371252,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -3,7 +3,7 @@
     "path": "~/GitHub/farts/try this again/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "4263795096",
+    "hash": "2473738374",
     "contents": "",
     "dirty": false,
     "created": 1644554903969.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,142",
-        "scrollLine": "0"
+        "cursorPosition": "10,0",
+        "scrollLine": "2"
     },
     "folds": "",
-    "lastKnownWriteTime": 1644555047,
+    "lastKnownWriteTime": 1651460508,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1644555047780,
+    "last_content_update": 1651460508647,
     "read_only": false,
     "read_only_alternatives": []
 }

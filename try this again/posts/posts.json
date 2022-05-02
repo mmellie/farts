@@ -1,19 +1,19 @@
 [
   {
     "path": "posts/2022-02-14-welcome/",
-    "title": "welcome",
-    "description": "A short description of the post.",
+    "title": "A post",
+    "description": "Website thoughts.",
     "author": [
       {
-        "name": "Unknown",
+        "name": "Ellie",
         "url": {}
       }
     ],
     "date": "2022-02-14",
     "categories": [],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "contents": "\r\nHere is a quick little blog where I will write about what it’s like\r\nto create a website.\r\n“When you try your best, but you don’t succeed\r\nWhen you get a website, but not what you need\r\nWhen you feel so tired, but r don’t sleep\r\nKnit and re-knit”\r\n–Coldplay ish???\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-02-14T22:23:27-06:00",
+    "last_modified": "2022-05-01T21:59:33-05:00",
     "input_file": {}
   }
 ]
