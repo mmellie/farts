@@ -1,7 +1,7 @@
 name: "."
-title: "shite"
+title: "EM"
 description: |
-  shite
+  EM
 output_dir: "."
 navbar:
   right:
