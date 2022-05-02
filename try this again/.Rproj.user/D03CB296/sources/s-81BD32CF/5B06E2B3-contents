@@ -1,0 +1,32 @@
+---
+title: "Projects"
+description: |
+  Projects I'm currently working on.
+author:
+  - name: Ellie
+    url: {}
+date: 2022-05-01
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Since July I've been working at an organization called Evident Change as a Graduate Research Assistant. I have worked on both juvenile/adult justice and child welfare teams. Here are a few that I've worked on so far. 
+
+### JAIS/CAIS Risk/Needs Assessment Redesign
+
+For this project I conducted a literature review about risk and needs assessments, supervisory strategies, and equity in criminal justice regarding these tools. I also analyzed assessment data to assess the functioning of the tool.
+
+### New Mexico FORCE Process Evaluation
+
+This project was designed to determine how a pilot differential response project in NM was working, and for whom. I led focus groups and interviews with staff and involved families to get first hand insight about the program. Administrative data will also be analyzed to assess usage rates and services accessed.
+
+### San Diego RAD Evaluation
+
+RAD is another differential response program designed to divert low-risk child maltreatment reports to services outside of the child welfare system. I analyzed data from the first 12 months of the program to determine if the program was being implemented to fidelity and whether there was bias in the implementation that should be adjusted. I also wrote a report about our findings to be sent to the client.
+
+### TDM Multi-Site Evaluation
+
+This project is designed to assess the Team Decision Making approach's implementation and outcomes. We are pulling data from 3 large child welfare systems across the United States, as well as engaging in considerable qualitative data collection. I am designing our primary data collection instruments and protocols, and will be helping with analysis of the administrative data. This project is set to conclude in October 2022. 
+
+

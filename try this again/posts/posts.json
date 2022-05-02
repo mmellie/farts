@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-05-01-projects/",
+    "title": "Projects",
+    "description": "Projects I'm currently working on.",
+    "author": [
+      {
+        "name": "Ellie",
+        "url": {}
+      }
+    ],
+    "date": "2022-05-01",
+    "categories": [],
+    "contents": "\r\nSince July I’ve been working at an organization called Evident Change\r\nas a Graduate Research Assistant. I have worked on both juvenile/adult\r\njustice and child welfare teams. Here are a few that I’ve worked on so\r\nfar.\r\nJAIS/CAIS Risk/Needs\r\nAssessment Redesign\r\nFor this project I conducted a literature review about risk and needs\r\nassessments, supervisory strategies, and equity in criminal justice\r\nregarding these tools. I also analyzed assessment data to assess the\r\nfunctioning of the tool.\r\nNew Mexico FORCE Process\r\nEvaluation\r\nThis project was designed to determine how a pilot differential\r\nresponse project in NM was working, and for whom. I led focus groups and\r\ninterviews with staff and involved families to get first hand insight\r\nabout the program. Administrative data will also be analyzed to assess\r\nusage rates and services accessed.\r\nSan Diego RAD Evaluation\r\nRAD is another differential response program designed to divert\r\nlow-risk child maltreatment reports to services outside of the child\r\nwelfare system. I analyzed data from the first 12 months of the program\r\nto determine if the program was being implemented to fidelity and\r\nwhether there was bias in the implementation that should be adjusted. I\r\nalso wrote a report about our findings to be sent to the client.\r\nTDM Multi-Site Evaluation\r\nThis project is designed to assess the Team Decision Making\r\napproach’s implementation and outcomes. We are pulling data from 3 large\r\nchild welfare systems across the United States, as well as engaging in\r\nconsiderable qualitative data collection. I am designing our primary\r\ndata collection instruments and protocols, and will be helping with\r\nanalysis of the administrative data. This project is set to conclude in\r\nOctober 2022.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-05-01T22:52:27-05:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2022-02-14-welcome/",
     "title": "A post",
     "description": "Website thoughts.",

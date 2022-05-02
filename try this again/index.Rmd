@@ -4,6 +4,8 @@ image: "large.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/ellie-miller-1007/"
+  - label: ORCiD
+    url: "https://orcid.org/my-orcid?orcid=0000-0002-9154-5190"
 output:
   postcards::jolla
 site: distill::distill_website
