@@ -1,0 +1,11 @@
+---
+title: "About this site"
+description: |
+  Some additional details about the website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This website is just about me and my academic career. I'm studying Evaluation Studies and I hope to pursue applied research in education, child welfare, or criminal justice after graduation.  
